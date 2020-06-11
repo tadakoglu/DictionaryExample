@@ -1,0 +1,13 @@
+c:\InterviewPerfect\bin\Debug\netcoreapp3.1\InterviewPerfect.exe
+C:\InterviewPerfect\bin\Debug\netcoreapp3.1\InterviewPerfect.deps.json
+C:\InterviewPerfect\bin\Debug\netcoreapp3.1\InterviewPerfect.runtimeconfig.json
+C:\InterviewPerfect\bin\Debug\netcoreapp3.1\InterviewPerfect.runtimeconfig.dev.json
+c:\InterviewPerfect\bin\Debug\netcoreapp3.1\InterviewPerfect.dll
+c:\InterviewPerfect\bin\Debug\netcoreapp3.1\InterviewPerfect.pdb
+c:\InterviewPerfect\obj\Debug\netcoreapp3.1\InterviewPerfect.csprojAssemblyReference.cache
+c:\InterviewPerfect\obj\Debug\netcoreapp3.1\InterviewPerfect.csproj.CoreCompileInputs.cache
+c:\InterviewPerfect\obj\Debug\netcoreapp3.1\InterviewPerfect.AssemblyInfoInputs.cache
+c:\InterviewPerfect\obj\Debug\netcoreapp3.1\InterviewPerfect.AssemblyInfo.cs
+c:\InterviewPerfect\obj\Debug\netcoreapp3.1\InterviewPerfect.dll
+c:\InterviewPerfect\obj\Debug\netcoreapp3.1\InterviewPerfect.pdb
+C:\InterviewPerfect\obj\Debug\netcoreapp3.1\InterviewPerfect.genruntimeconfig.cache
